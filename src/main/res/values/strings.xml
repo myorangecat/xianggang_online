@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">动力旋转设备在线监测移动端</string>
+    <string name="home">设备总体观测</string>
+    <string name="search">三空压设备参数监测</string>
+    <string name="police">报警设备与诊断</string>
+    <string name="device_info">加压车间一二三空压</string>
+    <string name="device_num">编号:471406E01</string>
+    <string name="device_1_tem_one">49.55</string>
+    <string name="tem_icon">℃</string>
+    <string name="long_icon">μm</string>
+    <string name="problem">检查进气管道是否阻塞</string>
+    <string name="problem_2">持续观察停机检查排气阀与进气管道</string>
+    <!--温度-->
+    <string name="tem_text_1">进口油温</string>
+    <string name="tem_text_2">末级进气温度</string>
+    <string name="tem_text_3">后冷空气温度</string>
+    <string name="tem_text_4">一级进气温度</string>
+    <string name="tem_text_5">高速转子振动</string>
+    <string name="tem_text_6">低速转子振动</string>
+    <!--时间-->
+    <string name="time">2-22 16:20:59</string>
+    <!--报警设备-->
+    <string name="police_device_1">一空压 5#离心机</string>
+</resources>
